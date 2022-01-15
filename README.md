@@ -1,1 +1,1 @@
-"# wordpress-plugin-structure" 
+# wordpress-plugin-structure

@@ -1,0 +1,17 @@
+{
+    "name": "fabioroque/wordpress-plugin-structure",
+    "description": "Simple wordpress plugin structure",
+    "license": "GIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fabiorodriguesroque",
+            "email": "fabioroque9@gmail.com"
+        }
+    ],
+    "require": {}
+}
