@@ -18,7 +18,9 @@ class Init {
 	public static function get_services()
 	{
 		return [
+            Pages\Admin::class,
             Base\Enqueue::class,
+            Cpt\CustomPostTypeName::class,
 		];
 	}
 
